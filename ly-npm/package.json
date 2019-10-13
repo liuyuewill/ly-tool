@@ -1,0 +1,14 @@
+{
+  "name": "liuyuewill-test-npm",
+  "version": "2.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "md5": "./bin/md5.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ly",
+  "license": "ISC"
+}
